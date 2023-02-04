@@ -2,7 +2,7 @@
 David Nguyen
 CS4395 HW1
 Reads a CSV file from user, standardized the text,
-store each person object in list and as a pickle,
+store each person object in a dict and as a pickle,
 and prints each person’s information
 '''
 
