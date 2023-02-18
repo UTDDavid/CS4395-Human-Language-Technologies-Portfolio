@@ -124,7 +124,7 @@ def guessing_game(top_50_words):
     # Print hidden word with their correct guesses
     print(*hidden)
 
-    # Get letter as guess
+    # Get letter as guess (trims white space and turns into lowercase)
     guess = input("Guess a letter: ").lower().strip()
 
     # Input is not a letter
