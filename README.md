@@ -20,3 +20,10 @@ Created a python program that uses the following:
 * regular expressions for text processing
 * file I/O
 * pickling 
+
+## Portfolio Assignment 2: Word Guessing Game
+*[HW2 Instructions Document](/HW2_Word_Guessing_Game/Portfolio%20Chapter%205%20Word%20Guess%20Game.pdf)*
+
+*[HW2 code](/HW2_Word_Guessing_Game/HW2_dxn180015.py)*
+
+This program uses NLTK features to explore a text file and create a word guessing game.
