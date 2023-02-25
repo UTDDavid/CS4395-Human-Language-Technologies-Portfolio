@@ -27,3 +27,10 @@ Created a python program that uses the following:
 *[HW2 code](/HW2_Word_Guessing_Game/HW2_dxn180015.py)*
 
 This program uses NLTK features to explore a text file and create a word guessing game.
+
+## Portfolio Assignment 2: Word Guessing Game
+*[HW3 Instructions Document](/HW3_WordNet/Portfolio%20Chapter%207%20WordNet.pdf)*
+
+*[Python Notebook](/HW3_WordNet/CS4395_HW3.ipynb)*
+
+This assignment deals with WordNet.
