@@ -36,3 +36,10 @@ This program uses NLTK features to explore a text file and create a word guessin
 *[Python Notebook PDF](/HW3_WordNet/CS4395_HW3.pdf)*
 
 This assignment deals with WordNet.
+
+## Portfolio Assignment 4: Ngrams
+*[HW4 program 1](/HW4_Ngrams/HW4_Part1_dxn180015.py)*
+
+*[HW4 program 2](/HW4_Ngrams/HW4_Part2_dxn180015.py)*
+
+*[HW4 Narrative](/HW4_Ngrams/HW4_Ngrams_dxn180015.pdf)*
