@@ -43,3 +43,6 @@ This assignment deals with WordNet.
 *[HW4 program 2](/HW4_Ngrams/HW4_Part2_dxn180015.py)*
 
 *[HW4 Narrative](/HW4_Ngrams/HW4_Ngrams_dxn180015.pdf)*
+
+## Portfolio Assignment 5: Sentence Parsing
+*[HW5 PDF](/HW5_Sentence_Parsing/HW5_Sentence_Parsing.pdf)*
