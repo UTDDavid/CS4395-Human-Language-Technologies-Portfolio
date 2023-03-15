@@ -46,3 +46,7 @@ This assignment deals with WordNet.
 
 ## Portfolio Assignment 5: Sentence Parsing
 *[HW5 PDF](/HW5_Sentence_Parsing/HW5_Sentence_Parsing.pdf)*
+
+## Portfolio Assignment 6: Web Crawler
+*[HW6 PDF](/HW6_Web_Crawler/HW6_dxn180015.pdf)*
+*[HW6 Code](/HW6_Web_Crawler/HW6_dxn180015.py)*

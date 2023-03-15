@@ -1,0 +1,473 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  cache miss 79:single/meta:08cf9fbf19acf51f999f48814417c304  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  cache hit 79:single/header:08cf9fbf19acf51f999f48814417c304  
+  Google Tag Manager DataLayer  
+ 
+  End Google Tag Manager DataLayer  
+  Google Tag Manager  
+ 
+  End Google Tag Manager  
+  OneTrust Cookies Consent Notice start  
+ 
+ 
+ 
+  OneTrust Cookies Consent Notice end  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Taboola  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	generated in 0.233 seconds
+	61928 bytes batcached for 300 seconds
+	billboard: forced 
+	view: grid 
+	theme: light 
+  
+ 
+ 
+  Google Tag Manager (noscript)  
+ 
+  End Google Tag Manager (noscript)  
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Biz & IT 
+ Tech 
+ Science 
+ Policy 
+ Cars 
+ Gaming & Culture 
+ Store 
+ Forums 
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Close 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Navigate
+   
+ 
+ Store 
+ Subscribe 
+ Videos 
+ Features 
+ Reviews 
+ 
+ 
+ RSS Feeds 
+ Mobile Site 
+ 
+ 
+ About Ars 
+ Staff Directory 
+ Contact Us 
+ 
+ 
+ Advertise with Ars 
+ Reprints 
+ 
+ 
+ 
+ 
+ 
+    Filter by topic
+   
+ 
+ Biz & IT 
+ Tech 
+ Science 
+ Policy 
+ Cars 
+ Gaming & Culture 
+ Store 
+ Forums 
+ 
+ 
+ 
+ 
+ 
+    Settings
+   
+ 
+ 
+ Front page layout 
+ 
+ 
+ 
+    Grid
+     
+ 
+ 
+ 
+ 
+ 
+    List
+     
+ 
+ 
+ 
+ 
+ Site theme 
+ 
+ 
+ light 
+ 
+ 
+ 
+ 
+ 
+ dark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Sign in
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Blue shell meets bluegrass    —
+ 
+ Miyamoto lands on late-night TV with Nintendo Switch reveal—and guitar riffs 
+ First live gameplay of any Nintendo Switch game gives us a closer look at the handheld. 
+ 
+ 
+ Sam Machkovech 
+    -   Dec 8, 2016 6:04 am UTC 
+ 
+   
+ 
+ 
+ 
+ 
+ reader comments 
+ 103 
+  with  
+ 
+ 
+ Share this story 
+ 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ 
+ 
+  cache hit 79:single/related:08cf9fbf19acf51f999f48814417c304   empty  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Backside of the Nintendo Switch, with kickstand and double-trigger Joy Cons easily visible.                   
+ 
+ 
+                                          NBC                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Perspective of the system's size and thinness is quite apparent in Fallon's hands.                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Early information suggests we should expect a starting price of around $250 for this little guy.                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Switch anti-glare coating in action.                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Fils-Aime gestures wildly about his favorite new console.                   
+ 
+ 
+ 
+ 
+ 
+ TV show host Jimmy Fallon has  aggressively courted video game makers  since taking over the NBC  Tonight Show  desk, and he continued his nerd-cred streak on Wednesday night with Nintendo's help. 
+ Nintendo of America President Reggie Fils-Aime joined Fallon on stage with an iPhone in hand (and a slick Mario pin on his lapel) to show off the first full-level run of  Super Mario Run  we've yet to see—but this moment was quickly overshadowed by a "one more thing" reveal: the Nintendo Switch console. Even better, it was shown off running  The Legend of Zelda: Breath of the Wild  for the first time; all previous footage of that game ran on the Wii U console. 
+ Nintendo Switch reveal on the Tonight Show. 
+ Fils-Aime showed off the Switch's fun party trick of working whether plugged into the hub (and, therefore, an HDTV) or taken on the go as a handheld system. But seeing Fallon hold the Switch in his hands, without flashy, jarring cuts or edits, showed off just how thin and sleek the Nintendo Switch looks in a grown-up's hands. We also got a hint of how long the system takes to transition from home mode to portable mode; Fils-Aime pulled the Switch out of the dock, at which point a small white box appeared on the smaller, handheld screen, as if to indicate a load. He continued talking and gesturing before handing the Switch to Fallon. The transition took approximately five seconds.   
+ Advertisement  
+ 
+ 
+ The nervous and excited Fallon made sure to show off his Switch know-how by flicking open its backside kickstand and describing its removable Joy-Con paddle controllers before playing  Zelda  for a few moments (and showing off his shield-slide prowess). Speaking of the Switch's backside: we can now confirm the existence of two triggers on each Joy-Con (or four in all), with L, R, ZL, and ZR buttons, which weren't as visible in  the system's launch commercial . We also got a better look at one of the system's giant vent openings, along with what may be the Switch's docking slot, seen as a miniature indentation in the bottom-middle of the system's backside. Next to that slot, by the way, is a port that looks very much like a USB Type-C connector (which  people already believed was coming to Switch ). 
+ Before handing Fallon the Switch, Fils-Aime controlled the  Zelda  demo with a Nintendo Switch Pro Controller, and this allowed viewers to see the game on Fallon's big-screen TV. Having seen demos of  Breath of the Wild  in person and on TV before, I was impressed to see the game's Switch version operating with fewer "hazy" visual filters, crisper resolution, and smoother frame rates (though it also had some visible aliasing artifacts). The Switch screen also looked slick and bright in Fallon's hands, though when the studio lights shone directly on it, the screen's anti-glare coating could be seen—as could the game's crisp, smooth performance when unplugged from the dock. 
+ Miyamoto and the Roots play  Super Mario  theme. 
+ After the gameplay segment ended, Nintendo legend Shigeru Miyamoto took the opportunity to sit in with Fallon's house band, The Roots, on acoustic guitar, to play a rendition of the  Super Mario Bros . overworld theme song. (Miyamoto was seen wearing a crazy-looking  Super Mario  shirt, as well, in which Mario is dressed as a samurai warrior—in bright red and blue colors, of course.) The song didn't have any bluegrass flair in particular, which Miyamoto has said  in interviews  is his favorite genre to play, but it still proved a rare public appearance of the game maker playing live instruments.   
+ Advertisement  
+ 
+ 
+ The  Super Mario Run  segment was less impressive, as it repeated details we'd heard at events such as its  Apple keynote reveal . Fallon tried and failed to grab all five red coins in the main campaign level he played, and he didn't sample the game's kingdom simulator mode, whose details are still scant. The game comes out December 12 on iOS platforms (with an Android launch coming next year) for $10, but Fils-Aime announced on Fallon that eager fans can try the game starting Thursday. That's when every Apple Store in the US will let visitors play the game's free trial demo. 
+ Fallon opened the show with a vague hint that Nintendo would show off "something new" in the episode, and the Nintendo Switch hands-on reveal was certainly the payoff we were hoping for. In one more month, we'll learn even more thanks to  Nintendo's next major Switch event on January 12 . Thanks to dev kits landing in more developers' hands this week, more leaks have begun to filter out about the system, including Switch's  emulation support for the GameCube  and  an estimated 5-8 hours of battery life —which will likely be boosted by  the quick-charge capabilities of the USB Type-C standard . 
+ Fallon opened the show by dropping the kind of Nintendo-specific trivia that you'd expect from the film  Scott Pilgrim  ("Does anybody know what  Donkey Kong  was based on?  Popeye !"), then rattled off Miyamoto's history of legendary video games. "You hit a home run with  Donkey Kong !" Fallon said facetiously to the crowd. "Go home! Let everyone else do something!" Eagle-eyed Nintendo fans also noticed Fallon earlier in the day  wearing a Miyamoto name tag  while attending a Knicks basketball game. 
+ Listing image by NBC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ reader comments 
+ 103 
+  with  
+ 
+ 
+ Share this story 
+ 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ 
+ 
+  cache miss 79:single/author:ae86fd76f47263370d0a9645dad22031    
+ 
+ 
+ 
+ 
+ Advertisement  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channel  Ars Technica 
+ 
+ 
+ 
+ 
+ ←  Previous story   Next story  → 
+ 
+ 
+ 
+ 
+ Related Stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Today on Ars 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Store 
+ Subscribe 
+ About Us 
+ RSS Feeds 
+ View Mobile Site 
+ 
+ 
+ 
+ 
+ Contact Us 
+ Staff 
+ Advertise with us 
+ Reprints 
+ 
+ 
+ 
+ 
+ 
+ Newsletter Signup 
+ 
+ Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. 
+ Sign me up → 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  CNMN Collection 
+  WIRED Media Group 
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our  User Agreement  (updated 1/1/20) and  Privacy Policy and Cookie Statement  (updated 1/1/20) and  Ars Technica Addendum  (effective 8/21/2018). Ars may earn compensation on sales from links on this site.  Read our affiliate link policy . 
+ Your California Privacy Rights  |  Do Not Sell My Personal Information 
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. 
+ Ad Choices 
+ 
+ 
+ 
+ 
+ 
+  cache hit 79:single/javascript-footer:08cf9fbf19acf51f999f48814417c304  
+  Taboola  
+ 
+  Parse.ly start  
+ 
+  Parse.ly end  
+  Memo start  
+ 
+  Memo end  
+ 
+ 
+  Sparrow begin  
+ 
+  Sparrow end  
+ 
+ 
+ 
+ 

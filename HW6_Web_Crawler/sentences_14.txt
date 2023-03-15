@@ -1,0 +1,112 @@
+                             All in One SEO                                     [if lt IE 9]><script src="https://switchplayer.net/wp-content/themes/flymag/js/html5shiv.js"></script><!
+[endif]            Skip to content        Clive ‘N’ Wrench Review   Metroid Prime Remastered Review   Blanc Review   Drago Noka Review   Lucy Dreaming Review   Nadir: A Grimdark Deck Builder Review   Fire Emblem Engage Review   A Space for the Unbound Review   Memorrha Review   Persona 4 Golden Review           Home  Buy Magazine  Switch Lite Review  Reviews  Subscribe  Write for us!
+Archive   eShop Updates  Amiibo  Feature  Interview  News  Previews  Site Updates  Trailer Analysis    Contact         Search for:       #site-navigation     #masthead            Nintendo Switch Review     March 16, 2017 March 16, 2017     Paul Murphy    .entry-meta    .entry-header    It’s time to switch.
+After what seems like an eternity since the late Satoru Iwata announced Nintendo’s next piece of hardware, what was previously known as the NX is finally here.
+After months of excitement, hype, and disappointment, followed by more hype (repeat ad nauseum), the system is now available and quite literally in gamer’s hands.
+It’s also the first time that I’ve genuinely been excited for a Nintendo system in more than a decade.
+Has it been worth the wait?
+What’s Included?
+Opening your Switch box for the first time you’ll be presented with the tablet and the two Joy-Con, with the other bits and pieces underneath.
+Also packaged with the new handheld are a USB-C charger, a dock for playing on the television, a HDMI cable, and two little straps for using the Joy-Con freehand.
+You also get the Joy-Con grip, which can be used as a more traditional (and somewhat surprisingly, comfortable) controller.
+This doesn’t allow your Joy-Con to charge however, and you’ll need the (sold separately) charge grip for that.
+Design  One of the first things that grabs you with the Nintendo Switch is just how tiny everything is.
+Diminutive is a word that I’ve not had much use for, but it’s incredibly apt as almost every review outlet around are also finding.
+The Joy-Con are tiny.
+The Switch unit itself – which is the tablet element, and all the required components that are contained in this module – is small.
+Even the plastic dock bundled in the package seems very tiny in comparison to normal hardware.
+It’s all incredibly well packaged in an equally small box, and really gives the aura of a high end product.
+Given that this new hybrid system is retailing for £279.99, you’d expect that.
+When all connected together, the system is more long than it is big; it’s certainly bigger than a PlayStation Vita and wider (but shorter) than a Wii U gamepad.
+It’s also incredibly thin – perhaps not pocket-sized, as many naysayers are suggesting, but certainly portable.
+If being able to fit in a pocket was a requirement for being classified as portable, the whole thing would have fallen apart at the Game Boy, Game Gear and Atari Lynx era.
+Modern day laptops, tablets and phablets would also then be exempt… unless people are trying to apply different rules.
+Nintendo haven’t revealed specifics for the Nintendo Switch’s internals, but we do know that it runs on a customised NVidia Tegra chipset.
+We also know that the system is more powerful than the Wii U and the PlayStation Vita, but not quite at the same level as a standard PlayStation 4 or Xbox One.
+Moving on to more specific specifications, the Switch is packed with 32GB of on board storage – although only ~25.9GB is available to you on first boot.
+As such, if you plan on downloading games then you’ll need to invest in a Micro SDHC/SDXC memory card to increase your storage (up to 2TB).
+For reference,  Breath of the Wild  is a 13.4GB download; and although it’s vast in size compared to most, it gives a general indication of how quickly that internal memory  could  be gobbled up.
+Currently save game files are stored to the internal memory with no way of transferring them over, so that’s something to keep in mind as well.
+The system ships with a 4310 mAh 3.7 V lithium-ion battery, and official longevity in handheld mode varies from 2.5 to 6 hours.
+Using  Breath of the Wild  as the benchmark, Nintendo has said it’ll run for around three.
+Obviously how bright the screen is, the volume level, and the computational intensity of the game will affect this.
+It’s not often Nintendo have nailed the design of their hardware at the first iteration, but the Switch is one sexy machine, and it all feels so incredibly premium.
+Despite weighing in at around 400 grams in its completed form, it never feels heavy as a handheld – and with the Joy-Con in the grip whilst playing on the TV it’s barely even noticeable.
+The unit has a 6.2 inch capacitive touchscreen with a resolution of 1280 x 720 with 237 pixels per inch, which means that you get an absolutely stunning visual display.
+Despite not being full HD in portable mode (the ability to upscale to 1080p on the TV is available), it really looks fantastic.
+There are a few niggles with the design though, and one of them follows the fact that the unit features a kickstand for using the console in “Table Top” form.
+This kickstand is made of plastic, feels flimsy, and in use you tend to fear it may break.
+It’s easily removable (and replaceable) it seems, but you can’t help but look to solutions like the one the Microsoft Surface uses with envy.
+Another issue is the flimsiness of the cover for the game cards; it’s literally thin tabs of plastic securing this to your console.
+I genuinely fear for the long term life span of this likely often-used cover.
+The dock also needs a mention here: it’s a slab of plastic with two external USB slots, the lone outward ports complimenting internal USB, USB-C, and HDMI connections.
+This thing is expected to retail for $60-$90 and essentially transfers the video signal to the TV.
+In complete contrast to the Switch itself, the dock feels quite cheap – and there are more than a few reports the dock is scratching screens, although it’s not something that has affected me.
+Set-up and Accounts  Turing the device on for the first time you’ll be prompted to connect the two Joy-Con to the tablet; the now familiar finger snaps echoing satisfyingly around you, and those tiny controllers effortlessly – but solidly – gliding along the rail and locking into place.
+Any worries I had about removing or attaching them instantly disappeared.
+The system them prompted me to set the date, time, language, and a nickname for myself – all accompanied by incremental audio prompts letting me know I was nearly done.
+All taken care of, I was up and running in less than ten minutes.
+Admittedly I had no online functionality at the time of set up, as when Nintendo sent this reviewer his unit the day one patch had not yet gone live, though subsequently I was able to easily link my newly created account with my Nintendo Network ID with no issues.
+The interface is very basic, but also very fluid, clean, and easy to navigate.
+Anyone that has spent time with the 3DS system will be happy to hear that!
+The Switch uses friend codes for online play – despite suggestions that it wouldn’t, although it isn’t as bad as before.
+If you have someone else’s code you can enter it, and rather than exchange theirs too they simply need to approve the request.
+Nintendo will be rolling out paid online later this year, and many details are scarce.
+There are no apps, internet browser, YouTube, Netflix, or other such programs currently available – and no word on when many will arrive.
+There’s also no Virtual Cconsole; although since it’s said that a Virtual Console title will be part of the paid subscription, you can bet it’ll arrive at some point down the line.
+Hybrid  How excited you’ll be for Nintendo’s newest hardware will depend on many factors, not least of all how you view it.
+Nintendo’s eschewed marketing stance places this new technology firmly on the fence with a “unique” ability to be both a handheld and a console in one; and it really changes the way you can play.
+Whether on a big screen session before work/school/other before transferring the play instantly to the handheld, or just playing it free hand; the opportunities to play are endless.
+1-2-Switch  is essentially a game you can only play docked or on tabletop mode whilst  Voez  is the first handheld-only game so games that work on all modes are not guaranteed.
+We could see a wide range of games with some specifically tailored to a certain way of playing.
+Me?
+I’m firmly in the camp that this is a handheld and will be how I play most of the time, save for party scenarios or late night playing.
+The added convenience of being able to play in other ways enhances its worth, but for me it’s a handheld/portable device first and foremost and looking at it this way greatly enhances it’s place in the market.
+Cons and Pros  The real beauty with how the Switch works is those little detachable controllers, the Joy-Con.
+Despite the obvious gimmicky nature, these little paddles slide on and off the unit/Joy-Con Grip with ease and work really well.
+With a great weight, balance and size – as well as cleverly hidden “shoulder” buttons on the side, these controllers are also designed to work well as two little controllers for multiplayer gaming.
+Although no real substitute for a full sized controller, it works very well for short sessions.
+Built into the technology is motion controls, and as such can operate in a similar manner to a Wii remote.
+It also has a fabulous rumble system dubbed “HD Rumble” which works incredibly well.
+Nintendo claimed that the rumble is sensitive enough to detect multiple ice cubes simulated within, and you’ll certainly get to test that theory in titles such as  1-2-Switch : it definitely works, and works well.
+Of course, one of the more publicised elements of the Switch itself has been the reporting that the Joy-Con can experience communication problems.
+It seems that the Bluetooth signal from the little controllers – the left in particular – aren’t particularly strong, and there’s further speculation that distance, electrical interference, and even human skin could cause the signal to drop.
+While this is a problem that many are having, I can tell you that in over 70 hours of playing I’m yet to experience it myself; though I play around three meters from the TV, there’s a direct line of sight between the docked unit and the controllers, and I tend not to play freehand.
+It is something to be aware of, however – though it’s also notable that Nintendo currently regards the issue as within regular failure limits.
+As mentioned above, the miniature controllers slide effortlessly into the surprisingly comfortable Joy-Con grip, but the biggest issue with the grip is that it has no means to charge the controllers.
+Instead, you’d have to shell out additional cash to get the version with a USB port in it if you prefer (or need) to charge separate.
+The Joy-Con also lack a traditional D-pad, so for those requiring something with this input, you’ll need to get yourself the Switch Pro controller.
+Retailing for around £60+ RRP at the time of launch, this is one of the finest controllers I’ve ever used.
+Packing in all the functionality found within the Joy-Con  and  having that D-pad, it’s also important to mention that the buttons on the Pro controller are also slightly larger.
+I found that despite the Joy-Con Grip being more than competent for the job, this is a fabulous way of playing too – so I tend to play the Switch docked this way, leaving the Joy-Con attached.
+In terms of battery life, Joy-Con are said to last for around 20 hours each and can charge just fine through the unit when docked.
+The Pro controller apparently lasts for around 40 hours (!
+), and I am yet to recharge it at the time of writing (even though it’s been through some heavy use).
+Games  Systems rarely ship with a complete complement and variety of titles, but it has to be said that the Switch’s launch line up is less than stellar.
+Of course,  Breath of the Wild  is no ordinary game – and the launch also possesses some little gems in the form of  Snipperclips, Fast RMX,  and  Shovel Knight.
+The system has over 150 games announced already, and with a fusion of first party titles, third party efforts, and an abundance of indie developers all getting behind the system, it won’t be long before the Switch has too many games to play!
+Mario Kart 8 Deluxe  is the next big Nintendo release – though  Arms ,  Splatoon 2, Fire Emblem Warriors, Xenoblade Chronicles 2  and  Super Mario Odyssey  are all expected before the end of the year.
+Should you buy the Nintendo Switch?
+Are you are looking for a new system for either at home, on the go, or even both?
+Do you have money burning a hole in your pocket?
+Can you see games that you’ll enjoy playing from the launch and upcoming line-up?
+If you answer positively to these questions, then undoubtedly yes.
+Nintendo aficionados that fall into this bracket will no doubt already have one, but I cannot sing the praises for the hardware and its potential enough.
+The Legend of Zelda: Breath of the Wild   is such an amazing experience, and arguably one of the best launch titles that a console has ever seen.
+No console is worth buying just for one game, but if there was  Breath of the Wild  would be that game.
+With the best part of 150 titles inbound already, a mix of classic Nintendo First-party, some token third-party, and a whole host of exciting indies, there is plenty to keep you occupied.
+If you own a Wii U then the question becomes a little more difficult.
+Is it worth shelling out £340+ to play the game on the Switch when you can just play it on the Wii U?
+That’s a hard sell to make.
+The Wii U is not going to continue to get big-name titles (and the writing is on the wall for it), but if it’s only  Zelda  that appeals to you then you might be better off waiting for now.
+Otherwise, it’s a resounding yes from me.
+As a predominantly handheld focused gamer, the Switch is almost everything I’d want from a portable console, and it has the added bonus of doubling up as a system I can play on the TV as well.
+It has a few little niggles on the whole and certainly feels that it’s been rushed out, but with the promise of some spectacular games and the return of split screen party fun, I’m fully on board.
+Are you?
+Reviewed using a unit kindly provided by Nintendo, but I was going to buy one anyway.
+.entry-content      Reviews   Nintendo Switch    .entry-footer    #post-##    Post navigation   ←  Fast RMX Review eShop Update – March 16th, 2017  →    .nav-links    .navigation     Leave a Reply  Cancel reply You must be  logged in  to post a comment.
+#respond    #comments    #main    #primary    Looking for something?
+Search for:      Buy Our PRINT Nintendo Switch Magazine!
+Tester SPM      Recent Reviews           Clive ‘N’ Wrench Review           Metroid Prime Remastered Review           Blanc Review           Drago Noka Review           Lucy Dreaming Review           Nadir: A Grimdark Deck Builder Review           Fire Emblem Engage Review           A Space for the Unbound Review        .widget-inner         Recent    end .tabs       end #recent-tab-content     end .inside    end #tabber    Find us on!
+#secondary    #content      Proudly powered by WordPress   |  Theme:  FlyMag  by Themeisle.
+.site-info     #colophon    #page

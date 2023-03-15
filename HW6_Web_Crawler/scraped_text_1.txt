@@ -1,0 +1,833 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Support us
+   
+ 
+Sign in / Create account         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  PC
+               
+ 
+ 
+ 
+                  PlayStation
+               
+ 
+ 
+ 
+                  Xbox
+               
+ 
+ 
+ 
+                  Nintendo
+               
+ 
+ 
+ 
+                  Digital Foundry
+               
+ 
+ 
+ 
+                  News
+               
+ 
+ 
+ 
+                  Reviews
+               
+ 
+ 
+ 
+                  Videos
+               
+ 
+ 
+ 
+                  Features
+               
+ 
+ 
+ 
+                  Guides
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Highlights 
+ 
+ 
+ 
+                  Fortnite C4 S2 Battle Pass
+               
+ 
+ 
+ 
+                  Fortnite Accolades
+               
+ 
+ 
+ 
+                  Pokémon Go Bruxish
+               
+ 
+ 
+ 
+                  Sons of the Forest Weapons
+               
+ 
+ 
+ 
+                  PS5 Stock
+               
+ 
+ 
+ 
+                  Supporters only
+               
+ 
+ 
+ 
+                  Deals
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If you click on a link and make a purchase we may receive a small commission.   Read our editorial policy .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  Home
+               
+ 
+ 
+ 
+                  Features
+               
+ 
+ 
+ 
+ 
+ 
+ 
+     New Switch mod delivers real-time CPU, GPU and thermal monitoring - and the results are remarkable
+ 
+ A fascinating insight into how games tap into the console's power. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Feature
+               
+ by     Thomas Morgan 
+   
+                  Senior Staff Writer, Digital Foundry
+                 
+ 
+ 
+Updated on  15 Mar 2020   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 comments             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Back in the day it was all about FRAPS. These days, Riva Tuner Statistics Server and OCAT are the tools of choice. For decades now, PC users have relied on real-time on-screen displays with frame-rate counters and system monitoring tools to give them some idea of how their PCs are being utilised during gaming. But what if similar tools were available to console users? Remarkably, a recent breakthrough in Switch modding has made this a reality. Frame-rates, CPU/GPU utilisation, temperature monitors, fan speeds: all are exposed, giving us a fascinating insight into how Switch titles pushe the hardware during gaming. 
+ Of course, this is all limited to earlier Switch revisions, vulnerable to a recovery mode hardware exploit on which custom firmware was developed. Yes, you can run these tools yourself but there is a route to piracy here - so not surprisingly, consoles attached to Nintendo's online gaming service are routinely banned. But the interesting part from the Digital Foundry perspective is the flourishing homebrew environment, which recently saw the release of the Tesla frame-work - code that runs on the Switch's reserved CPU core, bringing up an interactive overlay at any time during gaming. Tesla was swifty followed by the release of the Switch overlay mod, which essentially builds much of Riva Tuner Statistics Server's functionality onto the Tesla foundation. Voila: full real-time system analysis - but what does it reveal? 
+ Well, at the most basic level, you get instant confirmation that Nintendo does indeed reserve one of the Switch's CPU cores for the OS and front-end - the overlay shows cores zero to two essentially dormant while navigating the shell, with only core three active as the menus are traversed. Similarly, there's on-screen confirmation that Switch's docked clocks are totally locked during gameplay: 1020MHz for the CPU, 768MHz for the GPU, 1600MHz on the EMC (embedded memory controller). 
+ However, there is a twist and it's something we've covered before, that we can now see play out in real-time - Nintendo's 'boost mode'. This amounts to optimisations in how certain games selectively overclock the CPU to improve loading times. For example, when you die in Mario Odyssey, the screen fades to black and the game loads you back to the last checkpoint. There is a fairly quick turnaround in Odyssey but this is faster thanks to boost mode. During loading, the CPU gets upclocked temporarily to 1785MHz - a 75 per cent increase on the stock clock. Meanwhile, the GPU actually drops all the way down to 76.8MHz - a tenth of its usual speed. Nintendo is balancing thermals by overclocking one component to the max, while downclocking another to the bare minimum. 
+ 
+ 
+ 
+ 
+ 
+Watch on YouTube     
+ Riva Tuner Statistics Server for Switch? The System Overlay mod delivers a ton of RTSS functionality on a console for the first time and the results are fascinating. 
+ This technique is used in plenty of modern titles: Wolfenstein Youngblood, and even Crash Team Racing take advantage, while Zelda: Breath of the Wild and Super Mario Odyssey were patched to include it. Loading times are predicated not just on the speed of the internal NAND storage or your SD card, but also on the CPU decompressing assets in the background. With the screen being blank or static, there's no need to have the graphics processing running at full power anyway. At least, not for this moment. At the first sign of gameplay, the Switch reverts back to default clocks. Boost mode certainly does the trick - I noticed around seven seconds lopped off the loading time from the main menu to the Great Plateau in Breath of the Wild - 23 seconds vs 30 seconds.  
+ The system monitor overlay also reveals how certain titles have pushed Switch hardware to the point where Nintendo has stepped in to provide tweaked performance mode at the OS level - something that, outside of boost mode, only applies to portable configurations.  When we first revealed Switch's clocks , CPU was locked to 1020MHz, GPU to 307.2MHz. Just prior to launch,  portable graphics were boosted to a more reasonable 384MHz . These days, Switch's most challenging titles run the GPU at 460MHz - but that's just part of the story.  
+ Mortal Kombat 11 is a classic example. After the arena's loaded in, the GPU boosts to 460MHz from the opening cutscenes to gameplay. It's an exceptionally high clock speed, but it's limited to gameplay only. Back at the menus we go back to 384MHz again. Super Mario Odyssey uses the same improved GPU clock, but there are some surprising releases that  don't . Hellblade: Senua's sacrifice would likely benefit from the higher frequencies - its dynamic resolution would be higher and its frame-rate more solid, yet it's running locked at the standard 384MHz.  
+ 
+ 
+ How fast and how capable is a Nintendo Switch running key games at its very fastest CPU and GPU clocks? Find out right here. 
+ It's the same situation with Link's Awakening, which struggles with its frame-rate, in certain scenes and which in the past has shown significant improvement via overclocking. Perhaps the developers opted for standard clocks in order to preserve battery life, as users are more likely to put in extended game sessions on an RPG. There is an interesting postscript to Link's Awakening analysis. Yes, overclocking the GPU helps to iron out its frame-rate problems but the CPU and GPU monitoring suggest that there's still plenty of performance left in the silicon when these stutters kick in, suggesting that the problem is elsewhere.  
+ One of the most fascinating results from the system monitor tool is the concept of dynamic changes to clocks in portable mode. Games that use it are few and far between, but Luigi's Mansion 3 has the ability to swap dynamically between 307.2MHz and 384MHz. It's as is the Switch is able to throttle back its GPU in less demanding scenarios in order to maintain as much battery life as it can. Meanwhile, in the id Tech 6 ports from Panic Button, GPU clocks run the gamut, switching between 307.2MHz, 384Mhz  and  460MHz. A while back, patches were released for the earlier id Tech 6 ports that improved performance and I wonder if it's related to this. 
+ The system monitor overlay also gives us detailed information on Switch's thermals too. While docked, Doom and Wolfenstein are generally the titles that get the fan speeds revving highest. - and that makes sense when you see the temperatures. In an air conditioned office at 22 degrees Celsius, these two take no time at all to push the PCB heat sensor to 60c and to 55c on the Tegra X1 SoC itself. All of this gets the fans moving at 47 per cent speed max. Higher is obviously possible but with consistent test conditions it's always these two titles that get the warmest results - along with Luigi's Mansion 3 bizarrely, which hits the same peaks in temps and fan speed. Given these are all technical powerhouse games, all of which hammer the CPU cores to the high 90 per cent region, it does make sense. Equally, it highlights potential headroom we have for overclocking, assuming we're avoiding boiling point 100c temps here - 60c is still a safe point. The biggest issue we've encountered with overclocking is simply down to acoustics. Push CPU and GPU too far and the fan noise becomes seriously intrusive. 
+ 
+ 
+ 
+ 
+ 
+Watch on YouTube     
+ Switch modding is branching out to games too. Many of the mods made to The Witcher 3 actually made their way across to the latest official patch for the game. 
+ but perhaps increasing clocks still further to a certain extent  is  on the Nintendo roadmap. If so, our tests continue to demonstrate that the best bang for the buck boost to the Tegra X1 is - perhaps surprisingly - to overclock the CPU. Our understanding is that Nintendo has a developer mode which puts the CPU at 1220MHz - a 19.6 per cent improvement to standard clocks. Our tests demonstrate that doing so via homebrew OC tool sysclk doesn't melt the battery and helps to mitigate a lot of performance problems in many, many games. 
+ The system monitor overlay shows that titles like Smash Bros Ultimate, Doom, Wolfenstein and Luigi's Mansion 3 all push the CPU to over 90 per cent utilisation - and extra overhead there could certainly help to boost performance. A quick test in Wolfenstein Youngblood shows a big improvement in overall fluidity, for example, right from the very first level. Nintendo has proven willing to adjust performance profiles on Switch as we've seen with the dynamic GPU speeds, boost mode for improved loading times and the 460MHz portable configuration. it stands to reason that there could be more down the line, hopefully for the CPU side this time.  
+ Whether it's through access to the silicon for monitoring purposes, overclocking system components or even tweaking games (as we saw recently with  The Witcher 3 ), the work being carried out on the system by the modding community has allowed us to get a much deeper, fuller understanding of how the console hybrid works and how Nintendo continues to evolve its performance. The system monitor overlay in particular shines a light on how versatile the machine can be and where the hardware can be pushed via a delicate balancing act between thermals, fan speed, GPU load and performance. It's the most comprehensive look at  how  a current generation console performs - and it'll be fascinating to see where Nintendo takes it next. 
+ 
+ 
+ 
+ 
+ Will you support the Digital Foundry team? 
+ 
+Digital Foundry specialises in technical analysis of gaming hardware and software, using state-of-the-art capture systems and bespoke software to show you how well games and hardware run, visualising precisely what they're capable of.  In order to show you what 4K gaming actually looks like we needed to build our own platform to supply high quality 4K video for offline viewing. So we did.   
+ 
+Our videos are multi-gigabyte files and we've chosen a high quality provider to ensure fast downloads. However, that bandwidth isn't free and so we charge a small monthly subscription fee of £4.50.  We think it's a small price to pay for unlimited access to top-tier quality encodes of our content. Thank you.   
+ 
+Support Digital Foundry   
+ 
+ 
+Find out more about the benefits of our Patreon     
+ 
+   
+ 
+ 
+ 
+ You're not signed in! 
+ Create your ReedPop ID & unlock community features and much, much more! 
+ Create account 
+ 
+ 
+ 
+ 
+ Tagged With 
+ 
+ 
+ Digital Foundry 
+ 
+ 
+ Nintendo Switch 
+ 
+ 
+ 
+ 
+ Subscribe to the Eurogamer.net Daily newsletter 
+ Get the day's most talked about stories straight to your inbox. 
+ Sign up   
+ 
+ 
+ About the Author 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thomas Morgan 
+ 
+ 
+          Senior Staff Writer, Digital Foundry
+         
+ 32-bit era nostalgic and gadget enthusiast Tom has been writing for Eurogamer and Digital Foundry since 2011. His favourite games include Gitaroo Man, F-Zero GX and StarCraft 2. 
+ 
+   
+ 
+ Comments 
+ 
+ 
+ 
+Please enable JavaScript to see comments.       
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Feature | 
+ 
+ How IO turned Hitman around, from Absolution to World of Assassination                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Feature | 
+ 
+ How Mega Man X rewrote the player/character relationship                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Digital Foundry | 
+ 
+ New Half-Life RT mod proves the quality of Valve's original work                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Feature | 
+ 
+ Let's go bookshelf snooping in games                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Feature | 
+ 
+ Fortnite's grind rails are just super                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Feature | 
+ 
+ What we've been playing                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Feature | 
+ 
+ Everything shown during the Capcom Spotlight March 2023 event                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ State of the Game | 
+ 
+ Battlefield 2042 - with humility and hustle, DICE might yet win the war                     
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Buy things with globes on them 
+ And other lovely Eurogamer merch in our official store! 
+ 
+        Explore our store
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bad puns and video games since 1999. 
+ Copyright © 2023 Gamer Network Limited, a ReedPop company. 
+ All rights reserved. No part of this site or its content may be reproduced without the permission of the copyright holder. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore 
+ 
+ 
+ 
+                  PC
+               
+ 
+ 
+ 
+                  PlayStation
+               
+ 
+ 
+ 
+                  Xbox
+               
+ 
+ 
+ 
+                  Nintendo
+               
+ 
+ 
+ 
+                  Digital Foundry
+               
+ 
+ 
+ 
+                  News
+               
+ 
+ 
+ 
+                  Reviews
+               
+ 
+ 
+ 
+                  Videos
+               
+ 
+ 
+ 
+                  Features
+               
+ 
+ 
+ 
+                  Guides
+               
+ 
+ 
+ 
+                  Newsletters
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ Helpful Links 
+ 
+ 
+ 
+                  About Us
+               
+ 
+ 
+ 
+                  Advertise with us
+               
+ 
+ 
+ 
+                  Archive
+               
+ 
+ 
+ 
+                  Authors
+               
+ 
+ 
+ 
+                  Code of Conduct
+               
+ 
+ 
+ 
+                  Contact Us
+               
+ 
+ 
+ 
+                  Corporate Site
+               
+ 
+ 
+ 
+                  Editorial Policy
+               
+ 
+ 
+ 
+                  Review Policy
+               
+ 
+ 
+ 
+                  Terms & Conditions
+               
+ 
+ 
+ 
+ 
+ Privacy Links 
+ 
+ 
+ 
+                  Cookie Policy
+               
+ 
+ 
+ 
+                  Privacy Policy
+               
+ 
+ 
+ 
+                  Your Privacy Choices
+               
+ 
+ 
+ 
+Manage cookie settings   
+ 
+ 
+ 
+ 
+ 
+ 
+ Across Europe 
+ 
+ 
+ 
+                  Eurogamer.cz
+               
+ 
+ 
+ 
+                  Eurogamer.de
+               
+ 
+ 
+ 
+                  Eurogamer.es
+               
+ 
+ 
+ 
+                  Eurogamer.net
+               
+ 
+ 
+ 
+                  Eurogamer.nl
+               
+ 
+ 
+ 
+                  Eurogamer.pl
+               
+ 
+ 
+ 
+                  Eurogamer.pt
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ ReedPop 
+ 
+ 
+ 
+                  Cosplay Central
+               
+ 
+ 
+ 
+                  Dicebreaker
+               
+ 
+ 
+ 
+                  Digital Foundry
+               
+ 
+ 
+ 
+                  GamesIndustry.biz
+               
+ 
+ 
+ 
+                  Jelly Deals
+               
+ 
+ 
+ 
+                  Nintendo Life
+               
+ 
+ 
+ 
+                  Popverse
+               
+ 
+ 
+ 
+                  Pure Xbox
+               
+ 
+ 
+ 
+                  Push Square
+               
+ 
+ 
+ 
+                  Rock Paper Shotgun
+               
+ 
+ 
+ 
+                  The Haul
+               
+ 
+ 
+ 
+                  VG247
+               
+ 
+ 
+ 
+                  VGC
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

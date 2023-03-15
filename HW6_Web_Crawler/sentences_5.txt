@@ -1,0 +1,142 @@
+                          Connect Wallet     Wallet Settings   Disconnect Wallet  MetaMask    WalletConnect                                      Sign In                                                      My Account                              Manage Account  Digital                            Magazines  Subscriber Benefits  TIME Storefront  Help Center  Sign Out                                             SUBSCRIBE FOR $19                              Subscribe           Daily Spotlight                          Ukrainian Women Fear the Return of Their Partners                                                    My Account    Manage Account    Digital                        Magazines    Subscriber Benefits    TIME Storefront    Help Center    Sign Out                             Sign In                                              Subscribe                          Sections                          Home                                               U.S.
+Politics                                               World                                               Health                                               Climate                                               Personal Finance by NextAdvisor                                               Future of Work by Charter                                               Business                                               Tech                                               Entertainment                                               Ideas                                               Science                                               History                                               Sports                                               Magazine                                               TIME 2030                                               TIME Studios                                               Video                                               TIME100 Talks                                               TIMEPieces                                               The TIME Vault                                               TIME for Health                                               TIME for Kids                                               TIME Edge                                               TIME CO2                                               Red Border: Branded Content by TIME                           Join Us                          Newsletters                                               Subscribe                                               Subscriber Benefits                                               Give a Gift                                               Shop the TIME Store                                               Connect Wallet                           Customer Care                          US & Canada                                               Global Help Center                           Reach Out                          Careers                                               Press Room                                               Contact the Editors                                               Media Kit                                               Reprints and Permissions                           More                          Privacy Policy                                               Your California Privacy Rights                                               Terms of Use                                               Site Map                           Connect with Us                                                           Presented By      Headline           Breadcrumbs                                              Tech                                                                              Video Games                                                                    10 Things Nintendo's Shigeru Miyamoto Told Us About Switch and More                                   10 Things Nintendo's Shigeru Miyamoto Told Us About Switch and More         Lead Media            Author and Date                         By                                                    Matt Peckham                                  February 13, 2017 2:18 PM EST      Article Content     N intendo Creative Fellow and game design luminary Shigeru Miyamoto is renowned for his work on foundational franchises like  Donkey Kong ,  Super Mario Bros.  and  The Legend of Zelda .
+But there are a few things you may not know about the 64-year-old gaming celeb, like what he thinks of artificial intelligence or what he’s been doing in his spare time.
+(It’s more surprising than you’d think.)
+TIME spoke with Miyamoto mid-January, just after the  Nintendo Switch  hands-on for press in New York City.
+Here’s a lightly edited transcript of our conversation covering Nintendo Switch (the company’s $299 new platform that’s out March 3) and more.
+TIME:  A question that goes back to the beginning, about Nintendo designer  Gunpei Yokoi ‘s idea of  “lateral thinking with seasoned technology.”  What if anything about that philosophy factored into your approach to Switch?
+Shigeru Miyamoto:  As a company, we take in all different kinds of new technologies as they become available.
+The tendency for some companies is for their technical people to be more important or treasured.
+Companies like that tend to want to move forward and be at the top end of everything.
+But at Nintendo, we really place importance on finding something unique, something that only we can do.
+So there’s nothing specific from Mr. Yokoi that went directly into the Nintendo Switch.
+But as a company, Nintendo really puts the idea of fun up front, and I feel like that perspective was something Mr. Yokoi had established.
+Mr. Yokoi had this way of stepping back and calmly observing what’s going on, too.
+In my younger days, we had a tendency to want to move forward so quickly, and we several times had Mr. Yokoi kind of hold us back and say, “You need to look, step back and observe everything.”   And so we learned from him the importance of really putting ideas into forms of play.
+There’s a term in Japanese that indicates someone who wants to always say the opposite, so if I say yes, someone says no.
+It’s not like we’re trying to be that, but when everybody is saying the same thing, we need to be a little bit more suspicious and have keen eyes to observe what’s going on—we’ve been kind of trained to be that way.
+It’s not that Mr. Yokoi was against new pieces of technology.
+Sometimes, when he would get a new technology, he would just stare at it for an entire day.
+For example, he had this magnetic object that would float, and he would just put it on his desk and stare at it and play around with it and really observe it.
+In that sense, I felt like a lot of people were able to trust him, because he was really open and keen to observe things.
+( Pre-order:   Nintendo Switch, Amazon )   I know you weren’t as personally involved with Switch’s development, but were there any  tables flipped ?
+Nothing really in terms of 180 degrees, but myself, Mr. Takeda and Mr. Iwata were more providing feedback during development.
+So a lot of the younger staff would give us presentations, and we would give them feedback and make decisions if necessary.
+The feedback that we did provide I think was put to good use, and I don’t think there were any times where we had major clashes of ideas.
+If anything, we had to think about how to make Switch unique, and there’s a certain cost associated with that.
+So it was like, “Oh my God, it’s going to be a lot more expensive.
+How are we going to deal with this?” We struggled with that together as a team.
+Is there anything in particular about Switch that reflects Satoru Iwata’s involvement?
+[Iwata was Nintendo’s president from 2002 to 2015, and  passed away in July 2015 .]
+I mentioned that Mr. Iwata, Mr. Takeda and myself provided feedback and made decisions, but ultimately Mr. Iwata was the head of development, so he put a lot of thought and time into Switch.
+I think that the idea of Nintendo Switch being a device you can take out and anywhere, and the idea of it being a system that really allows networking and communicating with people, I think that’s something Mr. Iwata put a lot of emphasis on.
+Because Mr. Iwata was tech-savvy, a lot of our discussion involved trying to figure out how to make the technical things like network capabilities or servers or whatever fun.
+For example, think about when we added the ability to use  a browser on the DS  [Nintendo’s two-screen gaming handheld—the browser was added to North American systems in 2007].
+As time goes on, all of these services become more and more advanced, and so we need to think about “How do we incorporate mobile devices or new browser features that come up?” That’s something Mr. Iwata and I discussed a lot, really trying to decide what to do and what not to do in our hardware.
+You’re gambling on new haptic feedback features with Switch.
+What prompted the turn toward higher fidelity vibration as a cornerstone feature?
+First of all, I can’t say for certain that HD Rumble is going to create something completely original, but I can say that the sensation HD Rumble provides is completely new.
+When we first created  the Rumble Pak  [released in 1997 for the Nintendo 64], at that time we were trying to just think about cost and performance.
+What could we make that was cost-efficient to create a rumble sensation?
+Within Nintendo, there’s a group of people who just focus on researching rumble features and capabilities.
+For many years, they’ve been bringing different kinds of rumble and vibration features and putting them into games and testing them.
+What’s incredible is that it’s not just this monotone vibration, but you can feel the taps.
+So when you put your pen on the screen, it’s not just this dull vibration, you can feel the tap that the tip of the pen makes on the screen.
+Right now there’s this idea that 60 frames-per-second graphics is the standard [speed for modern video games].
+If you were, for example, to make something that ran at 20 frames-per-second, someone would get mad at you.
+For anything interactive, the response time is very important.
+So like with virtual reality, the latency makes a big difference in the experience.
+And with HD Rumble, the latency is different, so it provides a unique experience, and with that unique experience, I think new ideas can come about.
+When  we spoke in 2014 , you said of virtual reality that you had “a little bit of uneasiness with whether or not that’s the best way for people to play.” Has your view on this changed since then?
+In terms of being together online in virtual reality, I think a lot of the problems have been solved or are starting to be solved.
+This is something that we’re looking into, too.
+But when I see people play virtual reality, it makes me worry, just as for example if a parent were to see their kid playing virtual reality, it would probably make them worry.
+Another issue and challenge that I think everybody faces is how to create an experience that’s both short enough while also fully fleshed out in virtual reality.
+I’ve read you weren’t a fan of story-heavy games early in your career.
+The Legend of Zelda: Breath of the Wild  is clearly more story-driven than the franchise’s earliest installments.
+What are your thoughts these days on story in games?
+Let me start off by saying that Mr. Aonuma [Eiji Aonuma, the game’s producer] and his team, instead of creating a game where you’re playing the story, you yourself are embarking on an adventure, and I think they’ve found a unique way to strike a balance between the story and the fact that you’re on an adventure.
+It’s not that I don’t like story, that I’m denying the importance of story.
+I think after someone has played a game, it’s important that a story lingers in their mind.
+But what I do think is a challenge, is to cut down on playtime to set up and explain a story that’s already been set.
+I think what’s important, especially for the Zelda series, is for the person to be able to think it through for themselves, and to really live the story.
+I think that’s the challenge we’ve been working on through the many iterations of  The Legend of Zelda .
+And so in this game, while you’re playing, you start to kind of dig the narrative out and see the overarching story that lies in the background.
+And so I think the story in  Breath of the Wild  still doesn’t break the balance that’s been established in previous Zelda games.
+But we also wanted to make a game where, after someone is done playing, their own experience in that game is what the story is, and I think we’ve been able to accomplish that with this title.
+And really in this game, everybody can take very, very different routes and approaches.
+How long it takes to beat the game has a huge range.
+Mr. Yamauchi [Nintendo’s longest serving president, from 1949 to 2002] once said that Nintendo shouldn’t have a corporate philosophy to avoid creative staleness.
+Is that still true today?
+Mr. Yamauchi had a kind of a personal philosophy, which was that he didn’t hold a personal philosophy.
+What’s really interesting is that, even though this was how he lived, he left several lasting nuggets of philosophy to the company.
+One of them was like, because we were profitable by providing fun experiences, that we should only use money to create fun.
+What this means is that what we as business owners look forward to is not increasing our company, but expanding our work.
+So because Mr. Yamauchi had that philosophy and he said that consistently, it made work a lot easier for us.
+We didn’t have to think about all the other things.
+All we had to think about was, really, providing fun.
+There’s also the idea of having this original thought, a unique thought, which means not doing the same thing as other people.
+This is something obvious in the world: If you’re trying to do the same thing as everyone else, you get further and further from the top.
+If you want to be in second place or third place, you can do what other people are doing.
+I mean, you’ll have to put a lot of effort and work into it.
+If you’re doing something on your own, something unique, when the spotlight hits, you’re already at the top before you know it.
+So that’s why I feel like, in the world of fun, there’s only number one.
+And that’s why I think you’ve got to take risks to become number one.
+If you want to be number one by doing the same thing as other people, you’ve got to be kind of tough.
+And because we’re not tough, we can’t fight with other people.
+[Miyamoto holds up his fists and laughs.]
+I think this really coincides and equates to what the entertainment industry is like, anything with the creative industry, and it links to terms like  blue ocean or red ocean .
+This is something that Mr. Iwata did, to really link the philosophy of Nintendo to some of the business and corporate jargon, while also being able to convey that to all of the employees at Nintendo.
+A left field question about “super artificial intelligence,” this idea of AI that’s far “smarter” than human brains.
+Some of the biggest advances in artificial intelligence may come from games, or at least be built on advances in game design.
+And so given the  concerns about how wrong that could also go  down the road, I’m wondering if you’ve been thinking about this as a designer.
+What I can say is that I try not to use generalized terms like A.I.
+or even others like “voice recognition,” because with all of those technologies, there’s from zero to 10, some really elementary stuff to the very advanced stuff.
+That’s just my philosophy.
+When you look at this new Zelda, the horses are smart, the enemies are smart, this is all A.I.
+Then when you look at the cutting edge, like things where the machines could enslave human beings, that’s also A.I.
+I think in the industry of creating fun, when we’re trying to use A.I.
+in the upper regions of what we’re talking about, the cost performance just doesn’t work out.
+So we have to figure out what level of A.I.
+we need to use.
+As the frontier of artificial intelligence advances, I think the scope of what we can use in video games will increase as well, but I’m not daring enough to use the cutting edge.
+[Laughs]   Even things like voice recognition, you can’t just use pure calculation to get everything.
+There’s a certain level of prediction and guesswork that you need to do.
+Once we’re able to do that, we can really pinpoint what kind of technology to use, and so there’s a certain aspect or perspective that we need to put into these things.
+For example, in the medical field, we obviously can’t take any chances.
+But in the world of fun, you can do a bit more guessing and take a few more chances or shortcuts here and there, and really come up with ways to fill in some of those gaps so that it becomes a fun and intuitive and easy-to-use experience.
+In that sense, we have a lot of opportunities to practice right now.
+But A.I.
+is definitely something that I’m interested in.
+For things like robots or A.I., it’s really about how you set up the sensors, and obviously Nintendo is a company that’s really interested in different kinds of sensors.
+Is there anything in particular, when you think of the next 10 years, that you’d like to accomplish, in or out of gaming?
+As a company, we’ve carefully gotten ourselves involved in the mobile industry, and that’s something that I was personally involved in.
+Then with the Nintendo Switch, the idea of having a console that’s also a portable device, I think that opens up new doors to all kinds of possibilities.
+In the industry of fun, I think there’s still a lot we can still explore.
+I think what I want to accomplish is kind of laying down the standards for what those possibilities are going to be over the next 10 years.
+[A Nintendo executive then comments “Not your cat stool?”]   When I’m told that maybe I don’t need to go to work for a few days, I worry that I don’t have things to do, so I try to make sure there are things in my personal life that I can really work on too.
+So my garden looks really good now.
+I’ve been spending months just hoeing.
+[Laughs] And I made a cat hammock.
+I took a stool and then kind of pulled it apart and put it together so it’s like a hammock for a cat.
+That sounds like one very lucky cat.
+[Laughing] Even when I place him in it he runs away.
+It’s not quite there yet.
+( Read TIME’s affiliate link policy .)
+More Must-Reads From TIME      The  Best, Worst, and Most Heartwarming Moments From the 2023 Oscars   Inside the  Billion-Dollar Effort to Clean Up the World's Most Romantic River   'This War Made Him a Monster.'
+Ukrainian Women Fear the Return of Their Partners   How the  Last of Us  Finale Tried to Capture the Game's Gut-Punch Ending   The  Most Interesting Think Tank in American Politics   Top Chef 's Tom Colicchio  Stands by His Decisions   Paris Hilton:  Why I'm Telling My Abortion Story Now   Your  Houseplants Have Some Powerful Health Benefits   Why You Should  Report Your Rapid Test Results      Write to  Matt Peckham at  matt.peckham@time.com .
+Syndication Attribution     Sidebar           You May Also Like                     Read Next     'Zelda' Fans Should Watch This Upcoming Nintendo Panel       Next Up: Editor's Pick     The 25 Defining Works of the Black Renaissance           EDIT POST            You have reached your limit of free articles.
+Unlimited access to TIME.com      Inside TIME newsletter, twice weekly      Access to the TIME Digital Magazine    Subscribe Now    Already a print subscriber?
+Go here to link your subscription.
+Purchased TIMEPieces?
+Go here to connect your wallet.
+Already have a digital account?
+Sign In.
+Subscribe  Now   Or create a free account to access more articles  Existing print subscriber?
+Click here.
+Home                                                  U.S.
+Politics                                                  World                                                  Health                                                  Personal Finance by NextAdvisor                                                  Future of Work by Charter                                                  Business                                                  Tech                                                      Entertainment                                                  Ideas                                                  Science                                                  History                                                  Newsfeed                                                  Sports                                                  Magazine                                                  The TIME Vault                                                  TIME For Kids                                                  TIME CO2                                                      TIME Edge                                                  Video                                                  Masthead                                                  Newsletters                                                  Subscribe                                                  Subscriber Benefits                                                  Give a Gift                                                  Shop the TIME Store                                                  Careers                                                      Press Room                                                  TIME Studios                                                  U.S. & Canada Customer Care                                                  Global Help Center                                                  Contact the Editors                                                  Reprints and Permissions                                                  Site Map                                                  Media Kit                                         © 2023 TIME USA, LLC.
+All Rights Reserved.
+Use of this site constitutes acceptance of our  Terms of Service ,  Privacy Policy  ( Your California Privacy Rights ) and  Do Not Sell My Personal Information .
+TIME may receive compensation for some links to products and services on this website.
+Offers may be subject to change without notice.
