@@ -1,7 +1,7 @@
 '''
 David Nguyen
-CS4395 HW4 Part 1
-Ngrams
+CS4395 HW6
+Web Crawler
 '''
 
 import sys
