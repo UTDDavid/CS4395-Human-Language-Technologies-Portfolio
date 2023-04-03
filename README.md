@@ -50,3 +50,7 @@ This assignment deals with WordNet.
 ## Portfolio Assignment 6: Web Crawler
 *[HW6 PDF](/HW6_Web_Crawler/HW6_dxn180015.pdf)*
 *[HW6 Code](/HW6_Web_Crawler/HW6_dxn180015.py)*
+
+## Portfolio Assignment 7: Text Classification
+*[HW7 PDF](//HW7_Text_Classification/HW7_dxn180015.pdf)*
+*[HW7 Python Notebook](/HW7_Text_Classification/HW7_dxn180015.ipynb)*
