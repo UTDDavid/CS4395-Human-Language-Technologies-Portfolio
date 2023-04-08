@@ -52,5 +52,8 @@ This assignment deals with WordNet.
 *[HW6 Code](/HW6_Web_Crawler/HW6_dxn180015.py)*
 
 ## Portfolio Assignment 7: Text Classification
-*[HW7 PDF](//HW7_Text_Classification/HW7_dxn180015.pdf)*
+*[HW7 PDF](/HW7_Text_Classification/HW7_dxn180015.pdf)*
 *[HW7 Python Notebook](/HW7_Text_Classification/HW7_dxn180015.ipynb)*
+
+## Portfolio Assignment 8: ACL Paper Summary
+*[HW8 PDF](/HW8_ACL_Paper_Summary/HW8_dxn180015.pdf)*
