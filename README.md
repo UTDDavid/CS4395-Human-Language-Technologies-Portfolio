@@ -57,3 +57,9 @@ This assignment deals with WordNet.
 
 ## Portfolio Assignment 8: ACL Paper Summary
 *[HW8 PDF](/HW8_ACL_Paper_Summary/HW8_dxn180015.pdf)*
+
+## Portfolio Assignment 9: Chatbot
+*[HW8 PDF](/HW9_Chatbot/Chatbot.pdf)*
+
+## Portfolio Assignment 10: Text Classification 2
+*[HW8 PDF](/HW10_Text_Classification_2/CS4395_HW10.pdf)*
