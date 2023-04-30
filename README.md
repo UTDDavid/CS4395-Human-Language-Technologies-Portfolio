@@ -1,7 +1,11 @@
 # CS4395 - Human Language Technologies Portfolio
 This is my portfolio for my CS 4395.001 - Human Language Technologies class
-
 [My Github Pages Profile / Index Page](https://utddavid.github.io/CS4395-Human-Language-Technologies-Portfolio/)
+
+## Portfolio Assignment 11: Portfolio Summary
+*[Technical and Soft Skills](/skills.md)*
+
+By taking CS4349 - Human Language Technologies, I have learned a lot about Natural Language Processing techniques and how NLP techniques are used to process the human language for many use cases. I've learned about NLP techniques such as tf-idf, NER, term frequency, cosine similairty, tokenization, word parsing, data extraction and more. Additionally, I also learned about topic and tools related to NLP such as machine learning, neural networks, NLTK, and Pandas. NLP is a rapidly changing and developing field that can be hard to keep up with but is at the same time the very exciting and interesting due to how useful NLP is and will be even more in the future. For example, ChatGPT was released not so long ago and now GPT-4 is already coming soon. I would love to have more opportunities to use what I learned from this course and develop them even further.
 
 ## Portfolio Assignment 0: Getting Started
 *[A Brief Overview of NLP](/HW0_Portfolio_Setup/Overview_of_NLP.pdf)*
